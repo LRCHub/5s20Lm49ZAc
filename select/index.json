@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最高速度",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-01-06T18:10:06.182549Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最高速度",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_最高速度_SHISHAMO.txt"
+    }
+  ]
+}
